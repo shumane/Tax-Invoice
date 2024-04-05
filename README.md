@@ -13,7 +13,7 @@ Receipt Generation: Generates receipts for the entered or predefined shopping ba
 Usage
 
 1.Clone the Repository: 
-git clone <repository-url>
+git clone repository-url
 
 2.Build the Solution:
 
